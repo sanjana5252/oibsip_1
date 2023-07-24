@@ -1,5 +1,6 @@
-Oasis Infobyte Java Internship - Number Guessing Game
-Welcome to the Oasis Infobyte Java Internship! In this repository, you will find the code for the Number Guessing Game implemented in Java using Object-Oriented Programming (OOP) concepts. This game allows the user to guess a randomly generated number within a specified range.
+***Oasis Infobyte Java Internship - Number Guessing Game***
+
+Welcome to the ***Oasis Infobyte Java Internship!*** In this repository, you will find the code for the Number Guessing Game implemented in Java using Object-Oriented Programming (OOP) concepts. This game allows the user to guess a randomly generated number within a specified range.
 
 Game Rules
 The game will prompt you to enter the range of numbers within which you want to guess. You need to provide the lower and upper bounds for the range.
@@ -12,3 +13,4 @@ The objective is to guess the correct number within the selected number of chanc
 
 After the game ends, the program will display the result, indicating whether you won or lost and how many points you you score.
 
+***SANJANA SINGH***
