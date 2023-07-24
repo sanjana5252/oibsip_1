@@ -10,9 +10,5 @@ Once the game starts, you will be prompted to enter your guesses one by one. The
 
 The objective is to guess the correct number within the selected number of chances. To win the game, you need to score more than half of the total chances available.
 
-After the game ends, the program will display the result, indicating whether you won or lost and how many chances you took to guess the correct number.
+After the game ends, the program will display the result, indicating whether you won or lost and how many points you you score.
 
-Contributing
-We welcome contributions to improve the game or add new features. If you have any suggestions, bug fixes, or enhancements, please feel free to open an issue or submit a pull request.
-
-We hope you enjoy playing the Number Guessing Game and find it helpful in gaining a better understanding of Java and Object-Oriented Programming. Happy coding! 🚀
